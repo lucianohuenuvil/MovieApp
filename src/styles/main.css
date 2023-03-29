@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+html{
+    background-color: rgb(9, 9, 23);
+}
+
+
+.container{
+    padding: 0 calc(3.5vw + 15px);
+}
+

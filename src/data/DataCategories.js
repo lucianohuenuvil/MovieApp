@@ -1,0 +1,42 @@
+export const DataCategories = [
+   {
+      "id":"0001",
+      "categoryName":"Drama",
+      "url":"drama"
+   },
+   {
+      "id":"0002",
+      "categoryName":"Acción",
+      "url":"accion"
+   },
+   {
+      "id":"0003",
+      "categoryName":"Ciencia Ficción",
+      "url":"cienciaFiccion"
+   },
+   {
+      "id":"0004",
+      "categoryName":"Terror",
+      "url":"terror"
+   },
+   {
+      "id":"0005",
+      "categoryName":"Fantasía",
+      "url":"fantasia"
+   },
+   {
+      "id":"0006",
+      "categoryName":"Aventura",
+      "url":"aventura"
+   },
+   {
+      "id":"0007",
+      "categoryName":"Comedia",
+      "url":"comedia"
+   },
+   {
+      "id":"0008",
+      "categoryName":"Musical",
+      "url":"musical"
+   }
+]

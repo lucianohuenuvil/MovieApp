@@ -1,0 +1,22 @@
+.searchbar{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    display: flex;
+
+}
+
+.searchbar input{
+    display: flex;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(99, 99, 99);
+    color: rgb(232, 229, 229);
+    outline: none;
+    border: 0;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
